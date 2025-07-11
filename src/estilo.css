@@ -17,3 +17,12 @@
     color: #dd7b22;
     text-align: center;
 }
+
+.btn {
+    background-color: #dd7b22;
+    padding: 12px;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    font-weight: 500;
+}
